@@ -1,2 +1,2 @@
 # polkajs
-A multilingual documentation about polkadot.js wallet.
+A multilingual how-to about polkadot.js wallet.
